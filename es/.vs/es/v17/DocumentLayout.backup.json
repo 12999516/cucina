@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\Desktop\\cucina\\es\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|c:\\users\\sebas\\desktop\\cucina\\es\\es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|solutionrelative:es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|c:\\users\\sebas\\desktop\\cucina\\es\\es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|solutionrelative:es\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|c:\\users\\sebas\\desktop\\cucina\\es\\es\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|solutionrelative:es\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|c:\\users\\sebas\\desktop\\cucina\\es\\es\\ccuoco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF1A77E-33C9-4FF4-BFE3-7D041476EC10}|es\\es.csproj|solutionrelative:es\\ccuoco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "es\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Form1.Designer.cs",
+              "RelativeToolTip": "es\\Form1.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwJkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T11:13:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ccuoco.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Ccuoco.cs",
+              "RelativeDocumentMoniker": "es\\Ccuoco.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Ccuoco.cs",
+              "RelativeToolTip": "es\\Ccuoco.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T10:46:03.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Form1.cs",
+              "RelativeDocumentMoniker": "es\\Form1.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Form1.cs*",
+              "RelativeToolTip": "es\\Form1.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T10:45:45.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Form1.cs",
+              "RelativeDocumentMoniker": "es\\Form1.cs",
+              "ToolTip": "C:\\Users\\sebas\\Desktop\\cucina\\es\\es\\Form1.cs [Progettazione]*",
+              "RelativeToolTip": "es\\Form1.cs [Progettazione]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T10:20:14.436Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
